@@ -10,8 +10,9 @@ La implementación en código de EVM implica la captura y el procesamiento de da
 
 Para trabajar en este proyecto, necesitarás una IDE de C++ de tu elección. Algunas opciones populares incluyen:
 
-- [Visual Studio Code](https://code.visualstudio.com): Breve descripción o razón por la que podría ser una buena elección.
-- [COde::BLocks](https://www.codeblocks.org): Breve descripción o razón por la que podría ser una buena elección.
+- [Visual Studio Code](https://code.visualstudio.com)
+- [COde::BLocks](https://www.codeblocks.org)
+- [Dev-C++](https://www.bloodshed.net/)
 
 Una vez que hayas instalado tu IDE preferida, puedes clonar este repositorio y comenzar a trabajar en el código.
 ```bash
