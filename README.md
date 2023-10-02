@@ -17,7 +17,7 @@ Para trabajar en este proyecto, necesitarás una IDE de C++ de tu elección. Alg
 Una vez que hayas instalado tu IDE preferida, puedes clonar este repositorio y comenzar a trabajar en el código.
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu_usuario/tu_proyecto.git
+git clone https://github.com/Awholf/EVM-IDS.git
 
 # Abre el proyecto en tu IDE y comienza a trabajar
 
